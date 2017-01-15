@@ -229,7 +229,7 @@ input[type=text] {
 	margin-left: -3900px;
 }*/
 .footer{
-	background-image: url('../img/foot-bg.png');
+	background-image: url('./foot-bg.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 }
